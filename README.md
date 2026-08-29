@@ -1,0 +1,1 @@
+A basic calendar built as my first HTML/CSS project. Each month links out to timeanddate.com for full details. Still learning, but proud of getting this one working end-to-end. Live demo: https://carl1ian.github.io/html-css-calendar/

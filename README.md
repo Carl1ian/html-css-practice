@@ -1,1 +1,1 @@
-A basic calendar built as my first HTML/CSS project. Each month links out to timeanddate.com for full details. Still learning, but proud of getting this one working end-to-end. Live demo: https://carl1ian.github.io/html-css-calendar/
+8/29/26. Finished my first ever project using HTML and CSS. I still have a long way to go but I'm proud of myself. Open to feedback and suggestions.

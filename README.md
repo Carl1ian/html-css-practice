@@ -1,4 +1,4 @@
-
+---
 <h1>📅 2026-2027 Calendar (8/29/26)</h1>
 
 A simple calendar built with HTML & CSS as my first-ever project. Each month links out to timeanddate.com for full details.

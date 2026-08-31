@@ -40,6 +40,7 @@ A collection of custom button designs built with HTML & CSS, exploring hover eff
 - Consistent sizing and spacing across all variants
 
 📌 The Process
-This project was all about practicing **hover states, transitions, and shadows**. I started with basic filled buttons (like the Subscribe button), then experimented with outlined and pill-shaped variants. 
+
+This project was all about practicing **hover states, transitions, and shadows**. I started with basic filled buttons, then experimented with outlined and pill-shaped variants. 
 
 🌐 Preview

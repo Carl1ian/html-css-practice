@@ -19,6 +19,7 @@ A simple calendar built with HTML & CSS as my first-ever project. Each month lin
 This was my first real project after learning the basics of HTML and CSS. I built the table structure first, then styled it with colors and spacing. At first, I had a hard time linking the HTML file to the CSS, but after a few experiments, I managed to execute the link rel href correctly. So far, I'm enjoying my progress..
 
 🌐 Preview
+http://127.0.0.1:3000/portfolio/calendar.html?vscode-livepreview=true
  <video src="https://github.com/user-attachments/assets/463a6651-e433-484c-ae8f-8c6e09b35117" controls width="50%"></video>
 
  ---

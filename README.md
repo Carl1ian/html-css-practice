@@ -21,7 +21,7 @@ This was my first real project after learning the basics of HTML and CSS. I buil
 🌐 Preview
  <video src="https://github.com/user-attachments/assets/463a6651-e433-484c-ae8f-8c6e09b35117" controls width="50%"></video>
 
- 
+ ---
 
 <h1>🔘 Button Styles (8/31/26)</h1>
 

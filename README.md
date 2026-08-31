@@ -1,5 +1,5 @@
 
-<h1>📅 2026-2027 Calendar (8/29/26.)</h1>
+<h1>📅 2026-2027 Calendar (8/29/26)</h1>
 
 A simple calendar built with HTML & CSS as my first-ever project. Each month links out to timeanddate.com for full details.
 
@@ -23,7 +23,7 @@ This was my first real project after learning the basics of HTML and CSS. I buil
 
  
 
-<h1>🔘 Button Styles (8/31/26).</h1>
+<h1>🔘 Button Styles (8/31/26)</h1>
 
 A collection of custom button designs built with HTML & CSS, exploring hover effects, transitions, and shadows.
 

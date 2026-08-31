@@ -44,3 +44,4 @@ A collection of custom button designs built with HTML & CSS, exploring hover eff
 This project was all about practicing **hover states, transitions, and shadows**. I started with basic filled buttons, then experimented with outlined and pill-shaped variants. 
 
 🌐 Preview
+<video src="https://github.com/user-attachments/assets/e4b59b47-323f-4d37-a07d-9c5622fea2fc" controls width="50%"></video>
